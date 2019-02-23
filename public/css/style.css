@@ -1,0 +1,58 @@
+body {
+    background: #fff;
+}
+
+.Header{
+    background-color: #fff;
+    border-bottom: 1px solid #e3e3e3;
+}
+
+.logo{
+    width: 60px;
+}
+
+.menu{
+    padding-top: 35px;
+}
+
+.banner{
+    background-image: url("../img/banner.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center top;
+    height: 450px;
+}
+
+.image-info{
+    width: 250px;
+}
+
+.block{
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.info-container{
+    background-color: #fff;
+    margin: 20px 0px;
+    border: 1px solid #0096ff;
+    padding: 15px;
+}
+
+.info-container h5{
+    color: #000;
+    font-size: 20px;
+}
+
+.info-container p{
+    color: #999;
+    font-size: 15px;
+}
+
+.info-container hr{
+   border-bottom: 1px solid #0096ff;
+}
+
+.Footer {
+    padding: 20px;
+}
